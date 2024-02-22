@@ -1,7 +1,7 @@
 # PhysiForge: Unveiling Multiphysics
 
 Welcome to PhysiForge, your portal to unveil the wonders of multiphysics modeling and anomaly analysis! This repository serves as a hub for exploring complex interactions between various physical phenomena, addressing anomalies in meshing and design, and optimizing system performance across diverse applications.
-![Alt Text](filename.png)
+![Alt Text](mf_sim1.JPG)
 
 
 ## About
@@ -37,7 +37,7 @@ Access detailed analyses, visualization results, and key insights derived from o
 To begin your journey with PhysiForge, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Explore the `Simulations` directory to discover simulations of interest.
+2. Explore the directories to discover simulations of interest.(More coming soon)
 3. Review the README files within each simulation folder for specific instructions and details.
 4. Experiment with different simulation parameters, analyze results, and gain insights into multiphysics phenomena.
 5. Join our community discussions, share your findings, and contribute to advancing the field of multiphysics modeling.
@@ -48,7 +48,7 @@ We welcome contributions from the community to enrich and expand PhysiForge. Whe
 
 ## Support
 
-If you have questions, suggestions, or encounter any issues while using PhysiForge, please don't hesitate to [open an issue](../../issues) or reach out to the repository maintainers for assistance.
+If you have questions, or suggestions, or encounter any issues while using PhysiForge, please don't hesitate to [open an issue](../../issues) or reach out to the repository maintainers for assistance.
 
 ## License
 
