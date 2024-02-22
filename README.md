@@ -1,6 +1,8 @@
 # PhysiForge: Unveiling Multiphysics
 
 Welcome to PhysiForge, your portal to unveil the wonders of multiphysics modeling and anomaly analysis! This repository serves as a hub for exploring complex interactions between various physical phenomena, addressing anomalies in meshing and design, and optimizing system performance across diverse applications.
+![Alt Text](filename.png)
+
 
 ## About
 
